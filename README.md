@@ -22,5 +22,5 @@ Po wprowadzeniu danych wejściowych obliczona zostają interakcje między elemen
 
 # Zrzuty ekranu z symulacji
 
-![](images/sym_1.png)
-![](images/sym_2.png)
+![](images/Sym_1.png)
+![](images/Sym_2.png)
