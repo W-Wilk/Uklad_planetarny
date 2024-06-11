@@ -4,7 +4,7 @@ Projekt został wykonany w Pythonie. Obiekty układu poruszają się w dwóch wy
 
 Wykorzystane klasy: 
 
-![](Aspose.Words.3e870c59-3dec-4cff-b496-82a0d53bb796.002.jpeg)
+![](images/photo2.jpeg)
 ![](Aspose.Words.3e870c59-3dec-4cff-b496-82a0d53bb796.003.jpeg)
 ![](Aspose.Words.3e870c59-3dec-4cff-b496-82a0d53bb796.004.jpeg)
 
