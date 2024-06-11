@@ -19,3 +19,8 @@ Interfejs graficzny został stworzony przez biblioteki graficzną Turtle oraz ob
 Oddziaływania między nimi jest zbliżone do fizycznych oddziaływań grawitacyjnych działających na zasadzie prawa powszechnego ciążenia. 
 
 Po wprowadzeniu danych wejściowych obliczona zostają interakcje między elementami układu, a następnie zostaje uruchomiony program. 
+
+# Zrzuty ekranu z symulacji
+
+![](images/sym_1.png)
+![](images/sym_2.png)
